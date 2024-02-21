@@ -5,7 +5,7 @@ import { connect } from 'cloudflare:sockets';
 // How to generate your own UUID:
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = '6185ee7d-42dc-454f-837c-3bfb31e406bf';
-let proxyIP = "104.17.149.180"; // Edited By hra
+let proxyIP = "172.67.218.157"; // Edited By hra
 // let proxyIP = "49.51.46.56"; // original Row HRA
 
 let dohURL = 'https://dns.google/dns-query'; //'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='; // https://cloudflare-dns.com/dns-query or 
